@@ -1,0 +1,5742 @@
+{
+	".abogado":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".ac":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Network Information Center (AC Domain Registry) c/o Cable and Wireless (Ascension Island)"
+		},
+	".academy":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Half Oaks, LLC"
+		},
+	".accountants":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Knob Town, LLC"
+		},
+	".active":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The Active Network, Inc"
+		},
+	".actor":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".ad":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Andorra Telecom"
+		},
+	".adult":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ICM Registry AD LLC"
+		},
+	".ae":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecommunication Regulatory Authority (TRA)"
+		},
+	".aero":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Societe Internationale de Telecommunications Aeronautique (SITA INC USA)"
+		},
+	".af":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Communications and IT"
+		},
+	".ag":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"UHSA School of Medicine"
+		},
+	".agency":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Steel Falls, LLC"
+		},
+	".ai":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Government of Anguilla"
+		},
+	".airforce":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".al":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Electronic and Postal Communications Authority - AKEP"
+		},
+	".allfinanz":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Allfinanz Deutsche Vermögensberatung Aktiengesellschaft"
+		},
+	".alsace":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"REGION D ALSACE"
+		},
+	".am":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Society"
+		},
+	".an":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Curacao"
+		},
+	".android":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".ao":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Faculdade de Engenharia da Universidade Agostinho Neto"
+		},
+	".aq":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Antarctica Network Information Centre Limited"
+		},
+	".aquarelle":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Aquarelle.com"
+		},
+	".ar":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Presidencia de la Nación – Secretaría Legal y Técnica"
+		},
+	".archi":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"STARTING DOT LIMITED"
+		},
+	".army":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".arpa":{
+		"type":"infrastructure",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Architecture Board (IAB)"
+		},
+	".as":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"AS Domain Registry"
+		},
+	".asia":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DotAsia Organisation Ltd."
+		},
+	".associates":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Baxter Hill, LLC"
+		},
+	".at":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"nic.at GmbH"
+		},
+	".attorney":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".au":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":".au Domain Administration (auDA)"
+		},
+	".auction":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD HoldCo, Ltd."
+		},
+	".audio":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".autos":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DERAutos, LLC"
+		},
+	".aw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SETAR"
+		},
+	".ax":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ålands landskapsregering"
+		},
+	".axa":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"AXA SA"
+		},
+	".az":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"IntraNS"
+		},
+	".ba":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Universtiy Telinformatic Centre (UTIC)"
+		},
+	".band":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".bar":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+		},
+	".bargains":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Half Hallow, LLC"
+		},
+	".bayern":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Bayern Connect GmbH"
+		},
+	".bb":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Government of Barbados Ministry of Economic Affairs and Development Telecommunications Unit"
+		},
+	".bd":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Post & Telecommunications Bangladesh Secretariat"
+		},
+	".be":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DNS Belgium vzw/asbl"
+		},
+	".beer":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".berlin":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotBERLIN GmbH & Co. KG"
+		},
+	".best":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"BestTLD Pty Ltd"
+		},
+	".bf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ARCE-AutoritÈ de RÈgulation des Communications Electroniques"
+		},
+	".bg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Register.BG"
+		},
+	".bh":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecommunications Regulatory Authority (TRA)"
+		},
+	".bi":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Centre National de l'Informatique"
+		},
+	".bid":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dot Bid Limited"
+		},
+	".bike":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Grand Hollow, LLC"
+		},
+	".bio":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"STARTING DOT LIMITED"
+		},
+	".biz":{
+		"type":"generic-restricted",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NeuStar, Inc."
+		},
+	".bj":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Benin Telecoms S.A."
+		},
+	".bl":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".black":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".blackfriday":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".bloomberg":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Bloomberg IP Holdings LLC"
+		},
+	".blue":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".bm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Registry General Ministry of Labour and Immigration"
+		},
+	".bmw":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Bayerische Motoren Werke Aktiengesellschaft"
+		},
+	".bn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telekom Brunei Berhad"
+		},
+	".bnpparibas":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"BNP Paribas"
+		},
+	".bo":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agencia para el Desarrollo de la Información de la Sociedad en Bolivia"
+		},
+	".boo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".boutique":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Over Galley, LLC"
+		},
+	".bq":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".br":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Comite Gestor da Internet no Brasil"
+		},
+	".brussels":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DNS.be vzw"
+		},
+	".bs":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The College of the Bahamas"
+		},
+	".bt":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Information and Communications"
+		},
+	".budapest":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".build":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Plan Bee LLC"
+		},
+	".builders":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Atomic Madison, LLC"
+		},
+	".business":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Spring Cross, LLC"
+		},
+	".buzz":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DOTSTRATEGY CO."
+		},
+	".bv":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"UNINETT Norid A/S"
+		},
+	".bw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Botswana Communications Regulatory Authority (BOCRA)"
+		},
+	".by":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Reliable Software Inc."
+		},
+	".bz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Belize"
+		},
+	".bzh":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association www.bzh"
+		},
+	".ca":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Canadian Internet Registration Authority (CIRA) Autorite Canadienne pour les Enregistrements Internet (ACEI)"
+		},
+	".cab":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Half Sunset, LLC"
+		},
+	".cal":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".camera":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Atomic Maple, LLC"
+		},
+	".camp":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Delta Dynamite, LLC"
+		},
+	".cancerresearch":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Australian Cancer Research Foundation"
+		},
+	".capetown":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ZA Central Registry NPC trading as ZA Central Registry"
+		},
+	".capital":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Delta Mill, LLC"
+		},
+	".caravan":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Caravan International, Inc."
+		},
+	".cards":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Foggy Hollow, LLC"
+		},
+	".care":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Goose Cross, LLC"
+		},
+	".career":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotCareer LLC"
+		},
+	".careers":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Wild Corner, LLC"
+		},
+	".cartier":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Richemont DNS Inc."
+		},
+	".casa":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".cash":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Delta Lake, LLC"
+		},
+	".cat":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fundacio puntCAT"
+		},
+	".catering":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"New Falls. LLC"
+		},
+	".cc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services"
+		},
+	".cd":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Office Congolais des Postes et Télécommunications - OCPT"
+		},
+	".center":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Tin Mill, LLC"
+		},
+	".ceo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CEOTLD Pty Ltd"
+		},
+	".cern":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"European Organization for Nuclear Research (\"CERN\")"
+		},
+	".cf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Societe Centrafricaine de Telecommunications (SOCATEL)"
+		},
+	".cg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ONPT Congo and Interpoint Switzerland"
+		},
+	".ch":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SWITCH The Swiss Education & Research Network"
+		},
+	".channel":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".cheap":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sand Cover, LLC"
+		},
+	".christmas":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".chrome":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".church":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Holly Fileds, LLC"
+		},
+	".ci":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"INP-HB Institut National Polytechnique Felix Houphouet Boigny"
+		},
+	".citic":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CITIC Group Corporation"
+		},
+	".city":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Snow Sky, LLC"
+		},
+	".ck":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecom Cook Islands Ltd."
+		},
+	".cl":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NIC Chile (University of Chile)"
+		},
+	".claims":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Black Corner, LLC"
+		},
+	".cleaning":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fox Shadow, LLC"
+		},
+	".click":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".clinic":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Goose Park, LLC"
+		},
+	".clothing":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Steel Lake, LLC"
+		},
+	".club":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":".CLUB DOMAINS, LLC"
+		},
+	".cm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Cameroon Telecommunications (CAMTEL)"
+		},
+	".cn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Computer Network Information Center, Chinese Academy of Sciences"
+		},
+	".co":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":".CO Internet S.A.S."
+		},
+	".coach":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Koko Island, LLC"
+		},
+	".codes":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Puff Willow, LLC"
+		},
+	".coffee":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Trixy Cover, LLC"
+		},
+	".college":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"XYZ.COM LLC"
+		},
+	".cologne":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NetCologne Gesellschaft für Telekommunikation mbH"
+		},
+	".com":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"VeriSign Global Registry Services"
+		},
+	".community":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fox Orchard, LLC"
+		},
+	".company":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Silver Avenue, LLC"
+		},
+	".computer":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pine Mill, LLC"
+		},
+	".condos":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pine House, LLC"
+		},
+	".construction":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fox Dynamite, LLC"
+		},
+	".consulting":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, LTD."
+		},
+	".contractors":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Magic Woods, LLC"
+		},
+	".cooking":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".cool":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Koko Lake, LLC"
+		},
+	".coop":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DotCooperation LLC"
+		},
+	".country":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".cr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Academy of Sciences Academia Nacional de Ciencias"
+		},
+	".credit":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Snow Shadow, LLC"
+		},
+	".creditcard":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Binky Frostbite, LLC"
+		},
+	".cricket":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dot Cricket Limited"
+		},
+	".crs":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Federated Co-operatives Limited"
+		},
+	".cruises":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Spring Way, LLC"
+		},
+	".cu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CENIAInternet Industria y San Jose Capitolio Nacional"
+		},
+	".cuisinella":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SALM S.A.S."
+		},
+	".cv":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agência Nacional das Comunicações (ANAC)"
+		},
+	".cw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Curacao"
+		},
+	".cx":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Christmas Island Internet Administration Limited"
+		},
+	".cy":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Cyprus"
+		},
+	".cymru":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Nominet UK"
+		},
+	".cz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CZ.NIC, z.s.p.o"
+		},
+	".dad":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".dance":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".dating":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pine Fest, LLC"
+		},
+	".day":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".de":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DENIC eG"
+		},
+	".deals":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sand Sunset, LLC"
+		},
+	".degree":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".delivery":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Steel Station, LLC"
+		},
+	".democrat":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".dental":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Tin Birch, LLC"
+		},
+	".dentist":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".desi":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Desi Networks LLC"
+		},
+	".dev":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".diamonds":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"John Edge, LLC"
+		},
+	".diet":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".digital":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dash Park, LLC"
+		},
+	".direct":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Half Trail, LLC"
+		},
+	".directory":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Extra Madison, LLC"
+		},
+	".discount":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Holly Hill, LLC"
+		},
+	".dj":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Djibouti Telecom S.A"
+		},
+	".dk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dansk Internet Forum"
+		},
+	".dm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DotDM Corporation"
+		},
+	".dnp":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dai Nippon Printing Co., Ltd."
+		},
+	".do":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pontificia Universidad Catolica Madre y Maestra Recinto Santo Tomas de Aquino"
+		},
+	".docs":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".domains":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sugar Cross, LLC"
+		},
+	".doosan":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Doosan Corporation"
+		},
+	".durban":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ZA Central Registry NPC trading as ZA Central Registry"
+		},
+	".dvag":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+		},
+	".dz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CERIST"
+		},
+	".eat":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".ec":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NIC.EC (NICEC) S.A."
+		},
+	".edu":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"EDUCAUSE"
+		},
+	".education":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Brice Way, LLC"
+		},
+	".ee":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Eesti Interneti Sihtasutus (EIS)"
+		},
+	".eg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Egyptian Universities Network (EUN) Supreme Council of Universities"
+		},
+	".eh":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".email":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Spring Madison, LLC"
+		},
+	".emerck":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Merck KGaA"
+		},
+	".energy":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Binky Birch, LLC"
+		},
+	".engineer":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".engineering":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Romeo Canyon"
+		},
+	".enterprises":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Snow Oaks, LLC"
+		},
+	".equipment":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Corn Station, LLC"
+		},
+	".er":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Eritrea Telecommunication Services Corporation (EriTel)"
+		},
+	".es":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Red.es"
+		},
+	".esq":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".estate":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Trixy Park, LLC"
+		},
+	".et":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ethio telecom"
+		},
+	".eu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"EURid vzw/asbl"
+		},
+	".eurovision":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"European Broadcasting Union (EBU)"
+		},
+	".eus":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Puntueus Fundazioa"
+		},
+	".events":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pioneer Maple, LLC"
+		},
+	".everbank":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"EverBank"
+		},
+	".exchange":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Spring Falls, LLC"
+		},
+	".expert":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Magic Pass, LLC"
+		},
+	".exposed":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Victor Beach, LLC"
+		},
+	".fail":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Atomic Pipe, LLC"
+		},
+	".farm":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Just Maple, LLC"
+		},
+	".fashion":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".feedback":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Spectrum, Inc."
+		},
+	".fi":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Finnish Communications Regulatory Authority"
+		},
+	".finance":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Cotton Cypress, LLC"
+		},
+	".financial":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Just Cover, LLC"
+		},
+	".firmdale":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Firmdale Holdings Limited"
+		},
+	".fish":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fox Woods, LLC"
+		},
+	".fishing":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".fitness":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Brice Orchard, LLC"
+		},
+	".fj":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The University of the South Pacific IT Services"
+		},
+	".fk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Falkland Islands Government"
+		},
+	".flights":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fox Station, LLC"
+		},
+	".florist":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Half Cypress, LLC"
+		},
+	".flsmidth":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"FLSmidth A/S"
+		},
+	".fly":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".fm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"FSM Telecommunications Corporation"
+		},
+	".fo":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"FO Council"
+		},
+	".foo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".forsale":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, LLC"
+		},
+	".foundation":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"John Dale, LLC"
+		},
+	".fr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+		},
+	".frl":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"FRLregistry B.V."
+		},
+	".frogans":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"OP3FT"
+		},
+	".fund":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"John Castle, LLC"
+		},
+	".furniture":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Lone Fields, LLC"
+		},
+	".futbol":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd."
+		},
+	".ga":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)"
+		},
+	".gal":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Asociación puntoGAL"
+		},
+	".gallery":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sugar House, LLC"
+		},
+	".garden":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".gb":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Reserved Domain - IANA"
+		},
+	".gbiz":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".gd":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The National Telecommunications Regulatory Commission (NTRC)"
+		},
+	".ge":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Caucasus Online"
+		},
+	".gent":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"COMBELL GROUP NV/SA"
+		},
+	".gf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Net Plus"
+		},
+	".gg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Island Networks Ltd."
+		},
+	".gh":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Network Computer Systems Limited"
+		},
+	".gi":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sapphire Networks"
+		},
+	".gift":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".gifts":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Goose Sky, LLC"
+		},
+	".gives":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".gl":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"TELE Greenland A/S"
+		},
+	".glass":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Black Cover, LLC"
+		},
+	".gle":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".global":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dot GLOBAL AS"
+		},
+	".globo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Globo Comunicação e Participações S.A"
+		},
+	".gm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"GM-NIC"
+		},
+	".gmail":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".gmo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"GMO Internet, Inc."
+		},
+	".gmx":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"1&1 Mail & Media GmbH"
+		},
+	".gn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Centre National des Sciences Halieutiques de Boussoura"
+		},
+	".google":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".gop":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Republican State Leadership Committee, Inc."
+		},
+	".gov":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"General Services Administration Attn: QTDC, 2E08 (.gov Domain Registration)"
+		},
+	".gp":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Networking Technologies Group"
+		},
+	".gq":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"GETESA"
+		},
+	".gr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ICS-FORTH GR"
+		},
+	".graphics":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Over Madison, LLC"
+		},
+	".gratis":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pioneer Tigers, LLC"
+		},
+	".green":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".gripe":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Corn Sunset, LLC"
+		},
+	".gs":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Government of South Georgia and South Sandwich Islands (GSGSSI)"
+		},
+	".gt":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Universidad del Valle de Guatemala"
+		},
+	".gu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Guam Computer Center"
+		},
+	".guide":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Snow Moon, LLC"
+		},
+	".guitars":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".guru":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pioneer Cypress, LLC"
+		},
+	".gw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau"
+		},
+	".gy":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Guyana"
+		},
+	".hamburg":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Hamburg Top-Level-Domain GmbH"
+		},
+	".haus":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, LTD."
+		},
+	".healthcare":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Silver Glen, LLC"
+		},
+	".help":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".here":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".hiphop":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".hiv":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotHIV gemeinnuetziger e.V."
+		},
+	".hk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Hong Kong Internet Registration Corporation Ltd."
+		},
+	".hm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"HM Domain Registry"
+		},
+	".hn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Red de Desarrollo Sostenible Honduras"
+		},
+	".holdings":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"John Madison, LLC"
+		},
+	".holiday":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Goose Woods, LLC"
+		},
+	".homes":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DERHomes, LLC"
+		},
+	".horse":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".host":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DotHost Inc."
+		},
+	".hosting":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".house":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sugar Park, LLC"
+		},
+	".how":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".hr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CARNet - Croatian Academic and Research Network"
+		},
+	".ht":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Consortium FDS/RDDH"
+		},
+	".hu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Council of Hungarian Internet Providers (CHIP)"
+		},
+	".ibm":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"International Business Machines Corporation"
+		},
+	".id":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)"
+		},
+	".ie":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University College Dublin Computing Services Computer Centre"
+		},
+	".il":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Society of Israel"
+		},
+	".im":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Isle of Man Government"
+		},
+	".immo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Auburn Bloom, LLC"
+		},
+	".immobilien":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".in":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".industries":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Outer House, LLC"
+		},
+	".info":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".ing":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".ink":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Design, LLC"
+		},
+	".institute":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Outer Maple, LLC"
+		},
+	".insure":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pioneer Willow, LLC"
+		},
+	".int":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".international":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Wild Way, LLC"
+		},
+	".investments":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Holly Glen, LLC"
+		},
+	".io":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"IO Top Level Domain Registry Cable and Wireless"
+		},
+	".iq":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Communications and Media Commission (CMC)"
+		},
+	".ir":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Institute for Research in Fundamental Sciences"
+		},
+	".irish":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dot-Irish LLC"
+		},
+	".is":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ISNIC - Internet Iceland ltd."
+		},
+	".it":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"IIT - CNR"
+		},
+	".iwc":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Richemont DNS Inc."
+		},
+	".je":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Island Networks (Jersey) Ltd."
+		},
+	".jetzt":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"New TLD Company AB"
+		},
+	".jm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of West Indies"
+		},
+	".jo":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Information Technology Center (NITC)"
+		},
+	".jobs":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Employ Media LLC"
+		},
+	".joburg":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ZA Central Registry NPC trading as ZA Central Registry"
+		},
+	".jp":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Japan Registry Services Co., Ltd."
+		},
+	".juegos":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".kaufen":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".ke":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Kenya Network Information Center (KeNIC)"
+		},
+	".kg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"AsiaInfo Telecommunication Enterprise"
+		},
+	".kh":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Post and Telecommunications"
+		},
+	".ki":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Communications, Transport, and Tourism Development"
+		},
+	".kim":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".kitchen":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Just Goodbye, LLC"
+		},
+	".kiwi":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DOT KIWI LIMITED"
+		},
+	".km":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Comores Telecom"
+		},
+	".kn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Finance, Sustainable Development Information & Technology"
+		},
+	".koeln":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NetCologne Gesellschaft für Telekommunikation mbH"
+		},
+	".kp":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Star Joint Venture Company"
+		},
+	".kr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Korea Internet & Security Agency (KISA)"
+		},
+	".krd":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"KRG Department of Information Technology"
+		},
+	".kred":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"KredTLD Pty Ltd"
+		},
+	".kw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Communications"
+		},
+	".ky":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The Information and Communications Technology Authority"
+		},
+	".kz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association of IT Companies of Kazakhstan"
+		},
+	".la":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications"
+		},
+	".lacaixa":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CAIXA D'ESTALVIS I PENSIONS DE BARCELONA"
+		},
+	".land":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pine Moon, LLC"
+		},
+	".latrobe":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"La Trobe University"
+		},
+	".lawyer":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".lb":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"American University of Beirut Computing and Networking Services"
+		},
+	".lc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Puerto Rico"
+		},
+	".lds":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"IRI Domain Management, LLC"
+		},
+	".lease":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Victor Trail, LLC"
+		},
+	".legal":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Blue Falls, LLC"
+		},
+	".lgbt":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".li":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Universitaet Liechtenstein"
+		},
+	".lidl":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Schwarz Domains und Services GmbH & Co. KG"
+		},
+	".life":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Trixy Oaks, LLC"
+		},
+	".lighting":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"John McCook, LLC"
+		},
+	".limited":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Big Fest, LLC"
+		},
+	".limo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Hidden Frostbite, LLC"
+		},
+	".link":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".lk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Council for Information Technology LK Domain Registrar"
+		},
+	".loans":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"June Woods, LLC"
+		},
+	".london":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dot London Domains Limited"
+		},
+	".lotto":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".lr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Data Technology Solutions, Inc."
+		},
+	".ls":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National University of Lesotho"
+		},
+	".lt":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Kaunas University of Technology"
+		},
+	".ltda":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"InterNetX Corp."
+		},
+	".lu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"RESTENA"
+		},
+	".luxe":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".luxury":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Luxury Partners LLC"
+		},
+	".lv":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Latvia Institute of Mathematics and Computer Science Department of Network Solutions (DNS)"
+		},
+	".ly":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"General Post and Telecommunication Company"
+		},
+	".ma":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agence Nationale de Réglementation des Télécommunications (ANRT)"
+		},
+	".madrid":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Comunidad de Madrid"
+		},
+	".maison":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Victor Frostbite, LLC"
+		},
+	".management":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"John Goodbye, LLC"
+		},
+	".mango":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"PUNTO FA S.L."
+		},
+	".market":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Unitied TLD Holdco, Ltd"
+		},
+	".marketing":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fern Pass, LLC"
+		},
+	".mc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Gouvernement de Monaco Direction des Communications Electroniques"
+		},
+	".md":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"MoldData S.E."
+		},
+	".me":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Government of Montenegro"
+		},
+	".media":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Grand Glen, LLC"
+		},
+	".meet":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".melbourne":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation"
+		},
+	".meme":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".memorial":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dog Beach, LLC"
+		},
+	".menu":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Wedding TLD2, LLC"
+		},
+	".mf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".mg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NIC-MG (Network Information Center Madagascar)"
+		},
+	".mh":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Office of the Cabinet"
+		},
+	".miami":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".mil":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DoD Network Information Center"
+		},
+	".mini":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Bayerische Motoren Werke Aktiengesellschaft"
+		},
+	".mk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Macedonian Academic Research Network Skopje"
+		},
+	".ml":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agence des Technologies de l’Information et de la Communication"
+		},
+	".mm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Communications, Posts & Telegraphs"
+		},
+	".mn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Datacom Co., Ltd."
+		},
+	".mo":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Bureau of Telecommunications Regulation (DSRT)"
+		},
+	".mobi":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Technologies Limited dba dotMobi"
+		},
+	".moda":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".moe":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Interlink Co., Ltd."
+		},
+	".monash":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Monash University"
+		},
+	".money":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Outer McCook, LLC"
+		},
+	".mormon":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"IRI Domain Management, LLC (\"Applicant\")"
+		},
+	".mortgage":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".moscow":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+		},
+	".motorcycles":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DERMotorcycles, LLC"
+		},
+	".mov":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".mp":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Saipan Datacom, Inc."
+		},
+	".mq":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"MEDIASERV"
+		},
+	".mr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Nouakchott"
+		},
+	".ms":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"MNI Networks Ltd."
+		},
+	".mt":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NIC (Malta)"
+		},
+	".mu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Direct Ltd"
+		},
+	".museum":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Museum Domain Management Association"
+		},
+	".mv":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dhiraagu Pvt. Ltd. (DHIVEHINET)"
+		},
+	".mw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Malawi Sustainable Development Network Programme (Malawi SDNP)"
+		},
+	".mx":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NIC-Mexico ITESM - Campus Monterrey"
+		},
+	".my":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"MYNIC Berhad"
+		},
+	".mz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Centro de Informatica de Universidade Eduardo Mondlane"
+		},
+	".na":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Namibian Network Information Center"
+		},
+	".nagoya":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"GMO Registry, Inc."
+		},
+	".name":{
+		"type":"generic-restricted",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"VeriSign Information Services, Inc."
+		},
+	".navy":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".nc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Office des Postes et Telecommunications"
+		},
+	".ne":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SONITEL"
+		},
+	".net":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"VeriSign Global Registry Services"
+		},
+	".network":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Trixy Manor, LLC"
+		},
+	".neustar":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NeuStar, Inc."
+		},
+	".new":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".nexus":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".nf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Norfolk Island Data Services"
+		},
+	".ng":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Nigeria Internet Registration Association"
+		},
+	".ngo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Public Interest Registry"
+		},
+	".nhk":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Japan Broadcasting Corporation (NHK)"
+		},
+	".ni":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Universidad Nacional del Ingernieria Centro de Computo"
+		},
+	".ninja":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".nl":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SIDN (Stichting Internet Domeinregistratie Nederland)"
+		},
+	".no":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"UNINETT Norid A/S"
+		},
+	".np":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Mercantile Communications Pvt. Ltd."
+		},
+	".nr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CENPAC NET"
+		},
+	".nra":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NRA Holdings Company, INC."
+		},
+	".nrw":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Minds + Machines GmbH"
+		},
+	".nu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The IUSN Foundation"
+		},
+	".nyc":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The City of New York by and through the New York City Department of Information Technology & Telecommunications"
+		},
+	".nz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"InternetNZ"
+		},
+	".okinawa":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"BusinessRalliart inc."
+		},
+	".om":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecommunications Regulatory Authority (TRA)"
+		},
+	".ong":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Public Interest Registry"
+		},
+	".onl":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"I-REGISTRY Ltd., Niederlassung Deutschland"
+		},
+	".ooo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"INFIBEAM INCORPORATION LIMITED"
+		},
+	".org":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Public Interest Registry (PIR)"
+		},
+	".organic":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".osaka":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Interlink Co., Ltd."
+		},
+	".otsuka":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Otsuka Holdings Co., Ltd."
+		},
+	".ovh":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"OVH SAS"
+		},
+	".pa":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Universidad Tecnologica de Panama"
+		},
+	".paris":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"City of Paris"
+		},
+	".partners":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Magic Glen, LLC"
+		},
+	".parts":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sea Goodbye, LLC"
+		},
+	".party":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Blue Sky Registry Limited"
+		},
+	".pe":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Red Cientifica Peruana"
+		},
+	".pf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Gouvernement de la Polynésie française"
+		},
+	".pg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"PNG DNS Administration Vice Chancellors Office The Papua New Guinea University of Technology"
+		},
+	".ph":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"PH Domain Foundation"
+		},
+	".pharmacy":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Association of Boards of Pharmacy"
+		},
+	".photo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".photography":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sugar Glen, LLC"
+		},
+	".photos":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sea Corner, LLC"
+		},
+	".physio":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"PhysBiz Pty Ltd"
+		},
+	".pics":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".pictures":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Foggy Sky, LLC"
+		},
+	".pink":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".pizza":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Foggy Moon, LLC"
+		},
+	".pk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"PKNIC"
+		},
+	".pl":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Research and Academic Computer Network"
+		},
+	".place":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Snow Galley, LLC"
+		},
+	".plumbing":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Spring Tigers, LLC"
+		},
+	".pm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+		},
+	".pn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pitcairn Island Administration"
+		},
+	".pohl":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+		},
+	".poker":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Domains No. 5 Limited"
+		},
+	".porn":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ICM Registry PN LLC"
+		},
+	".post":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Universal Postal Union"
+		},
+	".pr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Gauss Research Laboratory Inc."
+		},
+	".praxi":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Praxi S.p.A."
+		},
+	".press":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DotPress Inc."
+		},
+	".pro":{
+		"type":"generic-restricted",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Registry Services Corporation dba RegistryPro"
+		},
+	".prod":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".productions":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Magic Birch, LLC"
+		},
+	".prof":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".properties":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Big Pass, LLC"
+		},
+	".property":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".ps":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry Of Telecommunications & Information Technology, Government Computer Center."
+		},
+	".pt":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Associação DNS.PT"
+		},
+	".pub":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".pw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Micronesia Investment and Development Corporation"
+		},
+	".py":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NIC-PY"
+		},
+	".qa":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Communications Regulatory Authority"
+		},
+	".qpon":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotCOOL, Inc."
+		},
+	".quebec":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"PointQuébec Inc"
+		},
+	".re":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+		},
+	".realtor":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Real Estate Domains LLC"
+		},
+	".recipes":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Grand Island, LLC"
+		},
+	".red":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".rehab":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".reise":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotreise GmbH"
+		},
+	".reisen":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"New Cypress, LLC"
+		},
+	".reit":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Association of Real Estate Investment Trusts, Inc."
+		},
+	".ren":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Beijing Qianxiang Wangjing Technology Development Co., Ltd."
+		},
+	".rentals":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Big Hollow,LLC"
+		},
+	".repair":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Lone Sunset, LLC"
+		},
+	".report":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Binky Glen, LLC"
+		},
+	".republican":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".rest":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+		},
+	".restaurant":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Snow Avenue, LLC"
+		},
+	".reviews":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd."
+		},
+	".rich":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"I-REGISTRY Ltd., Niederlassung Deutschland"
+		},
+	".rio":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Empresa Municipal de Informática SA - IPLANRIO"
+		},
+	".rip":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".ro":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Institute for R&D in Informatics"
+		},
+	".rocks":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, LTD."
+		},
+	".rodeo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".rs":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Serbian National Internet Domain Registry (RNIDS)"
+		},
+	".rsvp":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".ru":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Coordination Center for TLD RU"
+		},
+	".ruhr":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"regiodot GmbH & Co. KG"
+		},
+	".rw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Rwanda Information Communication and Technology Association (RICTA)"
+		},
+	".ryukyu":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"BusinessRalliart inc."
+		},
+	".sa":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Communications and Information Technology Commission"
+		},
+	".saarland":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotSaarland GmbH"
+		},
+	".samsung":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SAMSUNG SDS CO., LTD"
+		},
+	".sarl":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Delta Orchard, LLC"
+		},
+	".sb":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Solomon Telekom Company Limited"
+		},
+	".sc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"VCS Pty Ltd"
+		},
+	".sca":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)"
+		},
+	".scb":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The Siam Commercial Bank Public Company Limited (\"SCB\")"
+		},
+	".schmidt":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SALM S.A.S."
+		},
+	".schule":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Outer Moon, LLC"
+		},
+	".schwarz":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Schwarz Domains und Services GmbH & Co. KG"
+		},
+	".science":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dot Science Limited"
+		},
+	".scot":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dot Scot Registry Limited"
+		},
+	".sd":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sudan Internet Society"
+		},
+	".se":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The Internet Infrastructure Foundation"
+		},
+	".services":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fox Castle, LLC"
+		},
+	".sew":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SEW-EURODRIVE GmbH & Co KG"
+		},
+	".sexy":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".sg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Singapore Network Information Centre (SGNIC) Pte Ltd"
+		},
+	".sh":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Government of St. Helena"
+		},
+	".shiksha":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".shoes":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Binky Galley, LLC"
+		},
+	".si":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Academic and Research Network of Slovenia (ARNES)"
+		},
+	".singles":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Fern Madison, LLC"
+		},
+	".sj":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"UNINETT Norid A/S"
+		},
+	".sk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SK-NIC, a.s."
+		},
+	".sky":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sky IP International Ltd, a company incorporated in England and Wales, operating via its registered Swiss branch"
+		},
+	".sl":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sierratel"
+		},
+	".sm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecom Italia San Marino S.p.A."
+		},
+	".sn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Universite Cheikh Anta Diop NIC Senegal"
+		},
+	".so":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Post and Telecommunications"
+		},
+	".social":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco Ltd."
+		},
+	".software":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".sohu":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sohu.com Limited"
+		},
+	".solar":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ruby Town, LLC"
+		},
+	".solutions":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Silver Cover, LLC"
+		},
+	".soy":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".space":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DotSpace Inc."
+		},
+	".spiegel":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG"
+		},
+	".sr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telesur"
+		},
+	".ss":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".st":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Tecnisys"
+		},
+	".su":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Russian Institute for Development of Public Networks (ROSNIIROS)"
+		},
+	".supplies":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Atomic Fields, LLC"
+		},
+	".supply":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Half Falls, LLC"
+		},
+	".support":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Grand Orchard, LLC"
+		},
+	".surf":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".surgery":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Tin Avenue, LLC"
+		},
+	".suzuki":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SUZUKI MOTOR CORPORATION"
+		},
+	".sv":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SVNet"
+		},
+	".sx":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SX Registry SA B.V."
+		},
+	".sy":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Agency for Network Services (NANS)"
+		},
+	".sydney":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"State of New South Wales, Department of Premier and Cabinet"
+		},
+	".systems":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dash Cypress, LLC"
+		},
+	".sz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of Swaziland Department of Computer Science"
+		},
+	".taipei":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Taipei City Government"
+		},
+	".tatar":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\""
+		},
+	".tattoo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uniregistry, Corp."
+		},
+	".tax":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Storm Orchard, LLC"
+		},
+	".tc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Melrex TC"
+		},
+	".td":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Société des télécommunications du Tchad (SOTEL TCHAD)"
+		},
+	".technology":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Auburn Falls, LLC"
+		},
+	".tel":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telnic Ltd."
+		},
+	".tf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+		},
+	".tg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Cafe Informatique et Telecommunications"
+		},
+	".th":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Thai Network Information Center Foundation"
+		},
+	".tienda":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Victor Manor, LLC"
+		},
+	".tips":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Corn Willow, LLC"
+		},
+	".tires":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dog Edge, LLC"
+		},
+	".tirol":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"punkt Tirol GmbH"
+		},
+	".tj":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Information Technology Center"
+		},
+	".tk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecommunication Tokelau Corporation (Teletok)"
+		},
+	".tl":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Transport and Communications; National Division of Information and Technology"
+		},
+	".tm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"TM Domain Registry Ltd"
+		},
+	".tn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agence Tunisienne d'Internet"
+		},
+	".to":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Government of the Kingdom of Tonga H.R.H. Crown Prince Tupouto'a c/o Consulate of Tonga"
+		},
+	".today":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pearl Woods, LLC"
+		},
+	".tokyo":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"GMO Registry, Inc."
+		},
+	".tools":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pioneer North, LLC"
+		},
+	".top":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Jiangsu Bangning Science & Technology Co.,Ltd."
+		},
+	".town":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Koko Moon, LLC"
+		},
+	".toys":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Pioneer Orchard, LLC"
+		},
+	".tp":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"-"
+		},
+	".tr":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Middle East Technical University Department of Computer Engineering"
+		},
+	".trade":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Elite Registry Limited"
+		},
+	".training":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Wild Willow, LLC"
+		},
+	".travel":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Tralliance Registry Management Company, LLC."
+		},
+	".trust":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Artemis Internet Inc"
+		},
+	".tt":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"University of the West Indies Faculty of Engineering"
+		},
+	".tui":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"TUI AG"
+		},
+	".tv":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Finance and Tourism"
+		},
+	".tw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Taiwan Network Information Center (TWNIC)"
+		},
+	".tz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Tanzania Network Information Centre (tzNIC)"
+		},
+	".ua":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Hostmaster Ltd."
+		},
+	".ug":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Uganda Online Ltd."
+		},
+	".uk":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Nominet UK"
+		},
+	".um":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".university":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Little Station, LLC"
+		},
+	".uno":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dot Latin LLC"
+		},
+	".uol":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"UBN INTERNET LTDA."
+		},
+	".us":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"NeuStar, Inc."
+		},
+	".uy":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SeCIU - Universidad de la Republica"
+		},
+	".uz":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Computerization and Information Technologies Developing Center UZINFOCOM"
+		},
+	".va":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Holy See Secretariat of State Department of Telecommunications"
+		},
+	".vacations":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Atomic Tigers, LLC"
+		},
+	".vc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Telecommunications, Science, Technology and Industry"
+		},
+	".ve":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Comisión Nacional de Telecomunicaciones (CONATEL)"
+		},
+	".vegas":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dot Vegas, Inc."
+		},
+	".ventures":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Binky Lake, LLC"
+		},
+	".versicherung":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotversicherung-registry GmbH"
+		},
+	".vet":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"United TLD Holdco, Ltd"
+		},
+	".vg":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecommunications Regulatory Commission of the Virgin Islands"
+		},
+	".vi":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Virgin Islands Public Telcommunications System c/o COBEX Internet Services"
+		},
+	".viajes":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Black Madison, LLC"
+		},
+	".villas":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"New Sky, LLC"
+		},
+	".vision":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Koko Station, LLC"
+		},
+	".vlaanderen":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DNS.be vzw"
+		},
+	".vn":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Information and Communications of Socialist Republic of Viet Nam"
+		},
+	".vodka":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".vote":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Monolith Registry LLC"
+		},
+	".voting":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Valuetainment Corp."
+		},
+	".voto":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Monolith Registry LLC"
+		},
+	".voyage":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ruby House, LLC"
+		},
+	".vu":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecom Vanuatu Limited"
+		},
+	".wales":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Nominet UK"
+		},
+	".wang":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Zodiac Registry Limited"
+		},
+	".watch":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sand Shadow, LLC"
+		},
+	".webcam":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dot Webcam Limited"
+		},
+	".website":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DotWebsite Inc."
+		},
+	".wed":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Atgron, Inc."
+		},
+	".wedding":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".wf":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+		},
+	".whoswho":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Who's Who Registry"
+		},
+	".wien":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"punkt.wien GmbH"
+		},
+	".wiki":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Design, LLC"
+		},
+	".williamhill":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"William Hill Organization Limited"
+		},
+	".wme":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"William Morris Endeavor Entertainment, LLC"
+		},
+	".work":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".works":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Little Dynamite, LLC"
+		},
+	".world":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Bitter Fields, LLC"
+		},
+	".ws":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Government of Samoa Ministry of Foreign Affairs & Trade"
+		},
+	".wtc":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"World Trade Centers Association, Inc."
+		},
+	".wtf":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Hidden Way, LLC"
+		},
+	".测试":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".परीक्षा":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".佛山":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Guangzhou YU Wei Information Technology Co., Ltd."
+		},
+	".集团":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Eagle Horizon Limited"
+		},
+	".在线":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"TLD REGISTRY LIMITEDode"
+		},
+	".ryukyu":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"BusinessRalliart inc."
+		},
+	".sa":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Communications and Information Technology Commission"
+		},
+	".saarland":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dotSaarland GmbH"
+		},
+	".samsung":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SAMSUNG SDS CO., LTD"
+		},
+	".sarl":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Delta Orchard, LLC"
+		},
+	".sb":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Solomon Telekom Company Limited"
+		},
+	".sc":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"VCS Pty Ltd"
+		},
+	".sca":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)"
+		},
+	".scb":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The Siam Commercial Bank Public Company Limited (\"SCB\")"
+		},
+	".schmidt":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SALM S.A.S."
+		},
+	".schule":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Outer Moon, LLC"
+		},
+	".schwarz":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Schwarz Domains und Services GmbH & Co. KG"
+		},
+	".science":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"dot Science Limited"
+		},
+	".scot":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dot Scot Registry Limited"
+		},
+	".sd":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Sudan"
+		},
+	".한국":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"KISA (Korea Internet & Security Agency)"
+		},
+	".ভারত":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".八卦":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Zodiac Scorpio Limited"
+		},
+	".موقع":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Suhub Electronic Establishment"
+		},
+	".বাংলা":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".公益":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"China Organizational Name Administration Center"
+		},
+	".公司":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
+		},
+	".移动":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Afilias Limited"
+		},
+	".我爱你":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Tycoon Treasure Limited"
+		},
+	".москва":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+		},
+	".испытание":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".қаз":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association of IT Companies of Kazakhstan"
+		},
+	".онлайн":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CORE Association"
+		},
+	".сайт":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CORE Association"
+		},
+	".срб":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Serbian National Internet Domain Registry (RNIDS)"
+		},
+	".бел":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".테스트":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".орг":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Public Interest Registry"
+		},
+	".삼성":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"SAMSUNG SDS CO., LTD"
+		},
+	".சிங்கப்பூர்":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Singapore Network Information Centre (SGNIC) Pte Ltd"
+		},
+	".商标":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED"
+		},
+	".商店":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Wild Island, LLC"
+		},
+	".商城":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Zodiac Aquarius Limited"
+		},
+	".дети":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"The Foundation for Network Initiatives “The Smart Internet”"
+		},
+	".мкд":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Macedonian Academic Research Network Skopje"
+		},
+	".טעסט":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".中文网":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"TLD REGISTRY LIMITED"
+		},
+	".中信":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CITIC Group Corporation"
+		},
+	".中国":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"China Internet Network Information Center"
+		},
+	".中國":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"China Internet Network Information Center"
+		},
+	".谷歌":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".భారత్":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".ලංකා":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"LK Domain Registry"
+		},
+	".測試":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".ભારત":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".भारत":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".آزمایشی":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".பரிட்சை":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".网店":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Zodiac Libra Limited"
+		},
+	".संगठन":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Public Interest Registry"
+		},
+	".网络":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）"
+		},
+	".укр":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ukrainian Network Information Centre (UANIC), Inc."
+		},
+	".香港":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Hong Kong Internet Registration Corporation Ltd."
+		},
+	".δοκιμή":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".إختبار":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".台湾":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Taiwan Network Information Center (TWNIC)"
+		},
+	".台灣":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Taiwan Network Information Center (TWNIC)"
+		},
+	".手机":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Beijing RITT-Net Technology Development Co., Ltd"
+		},
+	".мон":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Datacom Co.,Ltd"
+		},
+	".الجزائر":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CERIST"
+		},
+	".عمان":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecommunications Regulatory Authority (TRA)"
+		},
+	".ایران":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Institute for Research in Fundamental Sciences (IPM)"
+		},
+	".امارات":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Telecommunications Regulatory Authority (TRA)"
+		},
+	".بازار":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"CORE Association"
+		},
+	".پاکستان":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".الاردن":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Information Technology Center (NITC)"
+		},
+	".بھارت":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".المغرب":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agence Nationale de Réglementation des Télécommunications (ANRT)"
+		},
+	".السعودية":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Communications and Information Technology Commission"
+		},
+	".سودان":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".عراق":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".مليسيا":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"MYNIC Berhad"
+		},
+	".شبكة":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"International Domain Registry Pty. Ltd."
+		},
+	".გე":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Information Technologies Development Center (ITDC)"
+		},
+	".机构":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Public Interest Registry"
+		},
+	".组织机构":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Public Interest Registry"
+		},
+	".ไทย":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Thai Network Information Center Foundation"
+		},
+	".سورية":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Agency for Network Services (NANS)"
+		},
+	".рус":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Rusnames Limited"
+		},
+	".рф":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Coordination Center for TLD RU"
+		},
+	".تونس":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Agence Tunisienne d'Internet"
+		},
+	".みんな":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".グーグル":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".世界":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Stable Tone Limited"
+		},
+	".ਭਾਰਤ":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".网址":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED"
+		},
+	".游戏":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Spring Fields, LLC"
+		},
+	".vermögensberater":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+		},
+	".vermögensberatung":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+		},
+	".企业":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Dash McCook, LLC"
+		},
+	".مصر":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Telecommunication Regulatory Authority - NTRA"
+		},
+	".قطر":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Communications Regulatory Authority"
+		},
+	".广东":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Guangzhou YU Wei Information Technology Co., Ltd."
+		},
+	".இலங்கை":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"LK Domain Registry"
+		},
+	".இந்தியா":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"National Internet Exchange of India"
+		},
+	".հայ":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Not assigned"
+		},
+	".新加坡":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Singapore Network Information Centre (SGNIC) Pte Ltd"
+		},
+	".فلسطين":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Ministry of Telecom & Information Technology (MTIT)"
+		},
+	".テスト":{
+		"type":"test",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Internet Assigned Numbers Authority"
+		},
+	".政务":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"China Organizational Name Administration Center"
+		},
+	".xxx":{
+		"type":"sponsored",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ICM Registry LLC"
+		},
+	".xyz":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"XYZ.COM LLC"
+		},
+	".yachts":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"DERYachts, LLC"
+		},
+	".yandex":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"YANDEX, LLC"
+		},
+	".ye":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"TeleYemen"
+		},
+	".yoga":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Top Level Domain Holdings Limited"
+		},
+	".yokohama":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"GMO Registry, Inc."
+		},
+	".youtube":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".yt":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+		},
+	".za":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"ZA Domain Name Authority"
+		},
+	".zip":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Charleston Road Registry Inc."
+		},
+	".zm":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Zambia Information and Communications Technology Authority (ZICTA)"
+		},
+	".zone":{
+		"type":"generic",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Outer Falls, LLC"
+		},
+	".zw":{
+		"type":"country-code",
+		"status":"",
+		"whois":"",
+		"method":"default",
+		"Sponsoring Organisation":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)"
+		}
+}

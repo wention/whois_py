@@ -1,0 +1,54 @@
+{
+	"whois.iana.org":{
+		"type":"",
+		"status":"",
+		"parse":{
+			   "Domain Name":"",
+			   "Creation Date":"",
+			   "Updated Date":"",
+			   "Expiration Date":"",
+			   "Registrar":"",
+			   "Registrar IANA ID":"",
+			   "Domain Status":"",
+			   "Registrant Name":"",
+			   "Registrant Organization":"",
+			   "Registrant Street":"",
+			   "Registrant City":"",
+			   "Registrant State/Province":"",
+			   "Registrant Postal Code":"",
+			   "Registrant Country":"",
+			   "Registrant Phone":"",
+			   "Registrant Phone Ext":"",
+			   "Registrant Fax":"",
+			   "Registrant Fax Ext":"",
+			   "Name Server":"",
+			   "DNSSEC":""
+		    }
+		},
+	"whois.cinic.cn":{
+		"type":"",
+		"status":"",
+		"parse":{
+			   "Domain Name":"",
+			   "Creation Date":"",
+			   "Updated Date":"",
+			   "Expiration Date":"",
+			   "Registrar":"",
+			   "Registrar IANA ID":"",
+			   "Domain Status":"",
+			   "Registrant Name":"",
+			   "Registrant Organization":"",
+			   "Registrant Street":"",
+			   "Registrant City":"",
+			   "Registrant State/Province":"",
+			   "Registrant Postal Code":"",
+			   "Registrant Country":"",
+			   "Registrant Phone":"",
+			   "Registrant Phone Ext":"",
+			   "Registrant Fax":"",
+			   "Registrant Fax Ext":"",
+			   "Name Server":"",
+			   "DNSSEC":""
+		    }
+		}
+}

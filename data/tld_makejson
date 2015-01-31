@@ -1,0 +1,29 @@
+#!/usr/bin/awk -f
+
+BEGIN { FS="\t"; print "{" } 
+    { 
+        gsub(/"/,"\\\"")
+        if (NR == 1)
+            printf("\t\"%s\":{\n"                            \
+                "\t\t\"type\":\"%s\",\n"                     \
+                "\t\t\"status\":\"\",\n"                     \
+                "\t\t\"whois\":\"\",\n"                      \
+                "\t\t\"method\":\"default\",\n"              \
+                "\t\t\"Sponsoring Organisation\":\"%s\"\n"   \
+                "\t\t}",
+                $1,
+                $2,
+                $3)
+        else
+            printf(",\n\t\"%s\":{\n"                         \
+                "\t\t\"type\":\"%s\",\n"                     \
+                "\t\t\"status\":\"\",\n"                     \
+                "\t\t\"whois\":\"\",\n"                      \
+                "\t\t\"method\":\"default\",\n"              \
+                "\t\t\"Sponsoring Organisation\":\"%s\"\n"   \
+                "\t\t}",
+                $1,
+                $2,
+                $3)
+    }
+END {print "\n}"}

@@ -1,0 +1,62 @@
+#!/usr/bin/awk -f
+
+BEGIN {print "{" } 
+    {
+        if (NR == 1)
+            printf("\t\"%s\":{\n"                                     \
+                "\t\t\"type\":\"\",\n"                                \
+                "\t\t\"status\":\"\",\n"                              \
+                "\t\t\"parse\":{\n"                                   \
+                    "\t\t\t   \"Domain Name\":\"\",\n"                \
+                    "\t\t\t   \"Creation Date\":\"\",\n"              \
+                    "\t\t\t   \"Updated Date\":\"\",\n"               \
+                    "\t\t\t   \"Expiration Date\":\"\",\n"            \
+                    "\t\t\t   \"Registrar\":\"\",\n"                  \
+                    "\t\t\t   \"Registrar IANA ID\":\"\",\n"          \
+                    "\t\t\t   \"Domain Status\":\"\",\n"              \
+                    "\t\t\t   \"Registrant Name\":\"\",\n"            \
+                    "\t\t\t   \"Registrant Organization\":\"\",\n"    \
+                    "\t\t\t   \"Registrant Street\":\"\",\n"          \
+                    "\t\t\t   \"Registrant City\":\"\",\n"            \
+                    "\t\t\t   \"Registrant State/Province\":\"\",\n"  \
+                    "\t\t\t   \"Registrant Postal Code\":\"\",\n"     \
+                    "\t\t\t   \"Registrant Country\":\"\",\n"         \
+                    "\t\t\t   \"Registrant Phone\":\"\",\n"           \
+                    "\t\t\t   \"Registrant Phone Ext\":\"\",\n"       \
+                    "\t\t\t   \"Registrant Fax\":\"\",\n"             \
+                    "\t\t\t   \"Registrant Fax Ext\":\"\",\n"         \
+                    "\t\t\t   \"Name Server\":\"\",\n"                \
+                    "\t\t\t   \"DNSSEC\":\"\"\n"                      \
+                    "\t\t    }\n"                                     \
+                    "\t\t}",
+                    $1)
+        else
+            printf(",\n\t\"%s\":{\n"                                  \
+                "\t\t\"type\":\"\",\n"                                \
+                "\t\t\"status\":\"\",\n"                              \
+                "\t\t\"parse\":{\n"                                   \
+                    "\t\t\t   \"Domain Name\":\"\",\n"                \
+                    "\t\t\t   \"Creation Date\":\"\",\n"              \
+                    "\t\t\t   \"Updated Date\":\"\",\n"               \
+                    "\t\t\t   \"Expiration Date\":\"\",\n"            \
+                    "\t\t\t   \"Registrar\":\"\",\n"                  \
+                    "\t\t\t   \"Registrar IANA ID\":\"\",\n"          \
+                    "\t\t\t   \"Domain Status\":\"\",\n"              \
+                    "\t\t\t   \"Registrant Name\":\"\",\n"            \
+                    "\t\t\t   \"Registrant Organization\":\"\",\n"    \
+                    "\t\t\t   \"Registrant Street\":\"\",\n"          \
+                    "\t\t\t   \"Registrant City\":\"\",\n"            \
+                    "\t\t\t   \"Registrant State/Province\":\"\",\n"  \
+                    "\t\t\t   \"Registrant Postal Code\":\"\",\n"     \
+                    "\t\t\t   \"Registrant Country\":\"\",\n"         \
+                    "\t\t\t   \"Registrant Phone\":\"\",\n"           \
+                    "\t\t\t   \"Registrant Phone Ext\":\"\",\n"       \
+                    "\t\t\t   \"Registrant Fax\":\"\",\n"             \
+                    "\t\t\t   \"Registrant Fax Ext\":\"\",\n"         \
+                    "\t\t\t   \"Name Server\":\"\",\n"                \
+                    "\t\t\t   \"DNSSEC\":\"\"\n"                      \
+                    "\t\t    }\n"                                     \
+                    "\t\t}",
+                    $1)
+    }
+END {print "\n}"}

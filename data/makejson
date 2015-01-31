@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "make json file ....."
+./tld_makejson tld.lst>tld.json
+./parse_makejson whois.lst>whois.json
+echo "done"
+
+echo "test json file"
+python test.py tld.json
+python test.py whois.json
+echo "done"
